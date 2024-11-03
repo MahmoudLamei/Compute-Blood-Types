@@ -1,5 +1,3 @@
-# Repository for ss24.2.1/team147
-
 **Topic:** SS24 Assignment 2.1: Compute Blood Types
 
 **Description**
